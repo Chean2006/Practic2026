@@ -1,2 +1,2 @@
-# Practic2026 project
+# Practic2026 
 Летняя практика 2026
